@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Web Develop with the love and passion for coding<br>🌱 I’m currently learning Rect<br>💬 Feel free to ask me about anything
+🔭 I’m Web Developer with the love and passion for coding<br>🌱 I’m currently learning Rect<br>💬 Feel free to ask me about anything
 
 
 ## 🌐 Socials:
