@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Web Developer & Automation Builder focused on scalable systems<br>🌱 Currently deepening my skills in React & modern frontend architecture<br>💬 Ask me about automation, or turning ideas into products
+🔭 Creative Developer & Automation Builder focused on scalable systems<br>🌱 Currently deepening my skills in React & modern frontend architecture<br>💬 Ask me about automation, or turning ideas into products
 
 
 ## 🌐 Socials:
