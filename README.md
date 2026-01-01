@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Web Developer with the love and passion for coding<br>🌱 I’m currently learning Rect<br>💬 Feel free to ask me about anything
+🔭 Web Developer & Automation Builder focused on scalable systems<br>🌱 Currently deepening my skills in React & modern frontend architecture<br>💬 Ask me about automation, or turning ideas into products
 
 
 ## 🌐 Socials:
