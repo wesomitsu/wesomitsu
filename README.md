@@ -1,7 +1,3 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=200&section=header&text=Hi%20there%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Designer%20%E2%80%A2%20Creative%20Technologist&descAlignY=58&descSize=18" /></p>
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=640&lines=Software+Designer+%26+Creative+Technologist;Turning+ideas+into+products+%F0%9F%9A%80;AI+agents+%C2%B7+automation+%C2%B7+GitHub+Actions;Currently+leveling+up+in+React+%E2%9A%9B%EF%B8%8F" /></p>
-<p align="center">[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/F2eq2rpJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wathek-alzoubi/) <img src="https://komarev.com/ghpvc/?username=wesomitsu&style=for-the-badge&color=7f5af0&label=PROFILE+VIEWS" /></p>
-
 # 💫 About Me:
 🔭 Software Designer & Creative Technologist focused on scalable systems and automation<br>🌱 Currently deepening my skills in React & modern frontend architecture<br>💬 Ask me about automation, or turning ideas into products
 
